@@ -1,0 +1,28 @@
+1.  Values: 'hello'  -87.8   6
+    Expressions:  *  -  /  +
+    (as per the example given in question)
+
+2. A variable is the thing in which data is stored like a container and it can store from strings to numbers.
+   A string is the values inside the quotes assigned to a string.
+
+3. Numeric - Has int, complex, float types
+             ex: 1,2,3.4,5.5,8+9j
+   Sequence - Has strings,list,tuple
+              ex:"hello",[1,2,3],(1,2,3)
+   Dictionary - ex:{'name': 'john', 'code': 6734, 'dept': 'AI Ethics'}
+
+4. An Expression is made up of mathematical operator, values. ex: x+y,x/y,2+2,4/1
+   Expressions are used to evaluate the values or represent the result on the screen.
+
+5. An expression evaluates to a value. A statement executes something. The evaluation of a statement does not changes state.
+
+6. 23
+
+7. 'spamspamspam'
+   'spamspamspam'
+
+8. Because we cannot give variable an integer name
+
+9. int(),float(),str()
+
+10. 99 is an integer it cannot be concat with strings, if we have to concat it we need to do typecasting. 
